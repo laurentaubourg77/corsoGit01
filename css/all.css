@@ -2,10 +2,16 @@
     
     }
 
-body {background-color: red;}
+body {background-color: blue;}
 
 td {color:red;}
 
+<<<<<<< HEAD
 th {color:red;}
 
 div {color:black;}
+=======
+th {color:#e30f0f;}
+
+
+>>>>>>> e5c4e66408c336f04a3bf58b8983123d464da2fd
